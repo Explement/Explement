@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Rainbow Six Siege Recoil Controller<br>🌱 I’m currently learning: Flutter, Java, and Godot<br>💬 Ask me about: Unity, Python or Lua<br>⚡ Fun fact: I have 4 years of experience in Game Development
+🔭 I’m currently working on: Nothing<br>🌱 I’m currently learning: Flutter, Java, and Godot<br>💬 Ask me about: Unity, Python or Lua<br>⚡ Fun fact: I have 4 years of experience in Game Development
 
 
 # 💻 Tech Stack:
